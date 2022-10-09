@@ -1,6 +1,12 @@
-Just Clone the repository
-composer install
-npm install
+<p>Just Clone the repository</p>
+<p>composer install</p>
+<p>php artisan ui bootstrap --auth</p>
+<p>php artisan migrate</p>
+<p>php artisan db:seed</p>
+<p>Default user will be generated with username admin@gmail.com and password : admin@123</p>
+<p>npm install</p>
+<p>npm run dev</p>
+<p>php artisan serve</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
